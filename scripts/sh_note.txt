@@ -1,0 +1,4 @@
+1.in xxx.sh,  command source ~/.bashrc not useful
+execute xxx.sh will create a sub-shell, its env PATH is from its parent-shell.
+
+
