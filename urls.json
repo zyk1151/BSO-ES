@@ -1,0 +1,39 @@
+{
+  "master": {
+    "url": "127.0.0.1",
+    "name": "name",
+    "passwd": "password"
+  },
+  "worker": {
+    "node0": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    },
+    "node1": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    },
+    "node2": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    },
+    "node3": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    },
+    "node4": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    },
+    "node5": {
+      "url": "127.0.0.1",
+      "name": "name",
+      "passwd": "password"
+    }
+  }
+}
